@@ -3,7 +3,7 @@
 ##### Contact Information
 
 - (512) 987-7000 
-- josephisaacturner@gmail.com
+- josephisaacturner@gmail.com // jiturner@bwh.harvard.edu
 - LinkedIn: www.linkedin.com/in/joseph-turner-525a56245
 - GitHub: https://github.com/josephisaacturner
 
