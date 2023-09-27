@@ -27,8 +27,6 @@ Experienced python developer at the crossroads of medicine, data science and res
 
     Currently designing novel neuroimaging software as well as a data management system for a team of computational neuroscience researchers at Brigham and Women's Hospital and Brigham Young University.
 
-    ---
-
 - **Summer Research Intern**
 
     Harvard Medical School, Brigham & Women's Hospital
@@ -38,8 +36,6 @@ Experienced python developer at the crossroads of medicine, data science and res
 
     Conducted clinical data collection in surgeries. Also assisted in development of a Django application that integrates with EPIC EHR to produce specialized datasets for our machine learning platform.
 
-    ---
-
 - **Full-stack Developer**
 
     Worldwide Resources, Inc
@@ -48,8 +44,6 @@ Experienced python developer at the crossroads of medicine, data science and res
 
     Implemented automation and organizational initiatives to streamline business operations. Build PHP-based web application for efficient fax message handling. Spearheaded the creation of a dynamic report generating system for seamless communication between clients and employees. Designed website front-end and client/employee portals.
 
-    --- 
-
 - **Research Assistant**
 
     Brigham Young University
@@ -57,8 +51,6 @@ Experienced python developer at the crossroads of medicine, data science and res
     January 2023 - Present
 
     Developed and launched LesionBank.org, web-based database and metanalysis tool for computational neuroimaging research. Personally built all end-to-end processes including automated database storage of extensive datasets, website hosting, and the creation of robust front-end and back-end infrastructure.
-
-    ---
 
 - **Editor at CHIASM, BYU Neuroscience Journal (July 2019 - Present)**
 
