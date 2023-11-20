@@ -19,14 +19,6 @@ Experienced python developer at the crossroads of medicine, data science and res
 
 ## Professional Experience
 
-- **Neurology Research Intern**
-
-    Harvard Medical School, Brigham & Women's Hospital
-    
-    August 2023 - Present
-
-    Currently designing novel neuroimaging software as well as a data management system for a team of computational neuroscience researchers at Brigham and Women's Hospital and Brigham Young University.
-
 - **Summer Research Intern**
 
     Harvard Medical School, Brigham & Women's Hospital
@@ -42,7 +34,7 @@ Experienced python developer at the crossroads of medicine, data science and res
     
     May 2022 - July 2023
 
-    Implemented automation and organizational initiatives to streamline business operations. Build PHP-based web application for efficient fax message handling. Spearheaded the creation of a dynamic report generating system for seamless communication between clients and employees. Designed website front-end and client/employee portals.
+    Implemented automation initiatives to streamline business operations. Build PHP-based web application for efficient fax message handling. Created a dynamic report generating system for seamless communication between clients and employees. Designed website front-end and client/employee portals.
 
 - **Research Assistant**
 
